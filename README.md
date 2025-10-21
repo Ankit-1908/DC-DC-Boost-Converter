@@ -36,13 +36,6 @@ Design and implement a **DC–DC Boost Converter** with the following specificat
 ## 🧩 Theoretical Overview  
 
 The **Boost Converter** is a type of DC–DC converter that steps up the input voltage to a higher level at the output.  
-The output voltage is given by:
-
-\[
-V_o = \frac{V_{in}}{1 - D}
-\]
-
-Where **D** is the duty cycle of the PWM signal.
 
 ### Operating Modes
 - **Continuous Conduction Mode (CCM):**  
